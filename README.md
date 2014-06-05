@@ -1,4 +1,0 @@
-hackerrank_codes
-================
-
-Hackerrank
